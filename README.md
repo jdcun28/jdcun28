@@ -1,4 +1,4 @@
-- 👋 Hi, John
+- 👋 Hi, I'm John!
 - 👀 I’m interested in Data driven solutions
 - 🌱 I’m currently Searching for a Role as a Data Analyst
 - 💞️ I’m looking to collaborate on PYTHON, SQL, EXCEL and DATA VIZUALIZATION PROJECTS Using POWERBI or TABLEAU
