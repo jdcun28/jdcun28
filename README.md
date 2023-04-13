@@ -2,8 +2,6 @@
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
-
 - 👨‍💻 My **Tableau** Projects are at: [John Dale Cunanan - Tableau Public](https://public.tableau.com/app/profile/john.dale.cunanan/viz/ProjectPortfolio-Covid-19tracker/CovidTracker)
 
 - 📫 Contact: Cunananjohndale@yahoo.com
