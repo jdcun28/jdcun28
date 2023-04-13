@@ -1,12 +1,15 @@
-- 👋 Hi, I'm John!
-- 👀 I’m interested in Data driven solutions
-- 💞️ I’m looking to collaborate on PYTHON, SQL, EXCEL and DATA VIZUALIZATION PROJECTS Using POWERBI or TABLEAU
-- 💞️ In my free time, I take pleasure in discovering novel methods and tools for analyzing data. I am constantly seeking out chances to broaden my skills and knowledge. Whether collaborating with others or working alone, I am motivated by the excitement of unearthing fresh perspectives and the gratification of utilizing data to tackle intricate issues.
+<h1 align="center">Hi 👋, I'm John Dale Cunanan.</h1>
+<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-Contacts: 
-LinkedIn - linkedin.com/in/john-dale-cunanan-98073b160
+- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-Email - cunananjohndale@yahoo.com
-          
-          
-          
+- 👨‍💻 My **Tableau** Projects are at: [John Dale Cunanan - Tableau Public](https://public.tableau.com/app/profile/john.dale.cunanan/viz/ProjectPortfolio-Covid-19tracker/CovidTracker)
+
+- 📫 Contact: Cunananjohndale@yahoo.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/johndalecunanan0628/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+</p>
+
